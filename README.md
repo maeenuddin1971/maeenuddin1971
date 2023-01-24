@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Maeen Uddin
-- 👀 I’m interested in Java and Android App
-- 🌱 I’m currently learning Android
+- 👋 Hi, I’m Maeen Uddin From Bangladesh
+- 👀 I’m interested in Java Full Stack Development with Angular.
+- 🌱 I’m interested to learn new things
 - 💞️ I’m looking to collaborate on any Programming related Problem
 - 📫 How to reach me ...
 mail me:
